@@ -11,6 +11,9 @@ Please click the link to view a demonstartion of the application in use: https:/
 
 ## Pictures
 
+![e commerce categories create](https://user-images.githubusercontent.com/78775177/120572186-23c36d00-c3e1-11eb-9017-406cdc1906bc.PNG)
+![e commerce products get](https://user-images.githubusercontent.com/78775177/120572190-2625c700-c3e1-11eb-83c9-90d07576381a.PNG)
+![e commerce tags create](https://user-images.githubusercontent.com/78775177/120572195-27ef8a80-c3e1-11eb-82d8-9bcba8071080.PNG)
 
 ## Table of Contents
 
